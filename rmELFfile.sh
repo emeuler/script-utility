@@ -1,5 +1,7 @@
 #!/bin/bash
 # author: edony
+# remove the executable file in current directory.
+# just run `./rmELFfile.sh`
 
 sys=$(uname)
 sys_m="Darwin"
